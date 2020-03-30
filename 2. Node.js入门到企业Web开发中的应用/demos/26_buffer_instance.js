@@ -55,3 +55,4 @@ console.log(buf9.indexOf('es'));
 // 找到则返回第一个匹配的index
 // 找不到则返回 -1 
 console.log(buf9.indexOf('esa'));
+// -1
